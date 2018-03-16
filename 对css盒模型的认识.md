@@ -18,7 +18,6 @@
 1. 标准模型
   如何设置：box-sizing: content-box
 
-
 2. IE模型
   如何设置：box-sizing: border-box 
 
