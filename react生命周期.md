@@ -3,7 +3,7 @@ componentWillMount
 render
 componentDidMount
 
-componentWillReciveProp
+componentWillReciveProps
 shouldComponentUpdate
 componentWillUpdate
 render
