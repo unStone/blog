@@ -4,7 +4,7 @@
 var new2 = function (func) {
   var newObj = Object.create(func.prototype);
   var case = func.call(newObj);
-  if (typeof newObj === 'object') return case;
+  if (typeof case === 'object') return case;
   return newObj;
 }
 ```
